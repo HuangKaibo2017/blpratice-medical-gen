@@ -10,11 +10,11 @@ http://note.youdao.com/group/redirect.html?type=org&inviteCode=DD2B576A51F54B88A
 **知识图谱-基因组 小组会议纪要 #1**
 **2017年7月24日19:30**
 
-'**1 参会人员**'
+> **1 参会人员**
 
 陶斯琴，陈钢，池振奋，黄凯波，聂凌虎，Joe Zhu，王阳
 
-'**2 会议概要**'
+> **2 会议概要**
 
 2.1. 参会人员自我介绍
 
@@ -22,7 +22,7 @@ http://note.youdao.com/group/redirect.html?type=org&inviteCode=DD2B576A51F54B88A
 
 2.3. 初始阶段任务和分工
 
-'**3 主要内容**'
+> **3 主要内容**
 
 3.1 参会人员介绍和对项目的看法
 
